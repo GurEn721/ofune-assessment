@@ -1,0 +1,16 @@
+body {
+    background:  linear-gradient(90deg, #00cc66, #00ffff) ;/*16進数カラーコードといい、jpgと同じ数表示できる16進数が2つづつ*/   /*background-colorで一色に決定*/   /*3つでもカラー書ける*/
+    color: #feffff;/*小文字推奨らしい*/
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    border-style: none;
+    color: #feffff;
+}
+input {
+    height: 24px;
+}
